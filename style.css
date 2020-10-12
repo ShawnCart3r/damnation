@@ -63,7 +63,7 @@ body* > {
     border-top-right-radius: 6px;
     border-bottom-left-radius: 8%;
     border-bottom-right-radius: 8%;
-    background-image: url(https://tinyurl.com/yxsjw3wm);
+    background-image: url(./image/black.webp);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -245,7 +245,7 @@ fbi-left {
     bottom: 11px;
     z-index: 2;
     background: lightgray;
-    background-image: url(https://tinyurl.com/yxsjw3wm);
+    background-image: url(https://image.ibb.co/jyq34n/holofoil_texture_2.jpg);
     box-shadow: 
         0 0 0 4px #171314;
 }
